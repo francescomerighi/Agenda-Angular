@@ -10,6 +10,4 @@ import { Contatto } from './contatto.model.ts';
 export class ContattoComponent {
   contatto: Contatto = new Contatto('Francesco', 'Merighi', 'francesco.merighi@marconirovereto.it',
     '3426476626', 5);
-    
-
 }
